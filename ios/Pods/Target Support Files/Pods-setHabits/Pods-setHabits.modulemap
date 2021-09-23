@@ -1,0 +1,6 @@
+module Pods_setHabits {
+  umbrella header "Pods-setHabits-umbrella.h"
+
+  export *
+  module * { export * }
+}
